@@ -6,7 +6,7 @@ this repository builds upon the excellent work already done by KrzysiuWojcik:
  
  for the Lifebook u729, u748 and u758 series of laptops.
  
- This is a tweaked/updated version that will boot Sequioa (up to 15.2) on your Fujitsu.
+ This is a tweaked/updated version that will boot Sequioa (up to 15.3) on your Fujitsu.
  
  What does not yet work:
  
